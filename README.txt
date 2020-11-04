@@ -1,1 +1,1 @@
-Personal project portfolio for Ben Pfeffer
+Personal data science project portfolio for Ben Pfeffer
